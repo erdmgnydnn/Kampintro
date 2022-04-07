@@ -13,6 +13,8 @@ namespace DegeerVeReferansTipler
             sayi1 = sayi2;
             sayi2 = 65;
             
+
+
             // sayi1= kaça eşittir ??
         }
     }
